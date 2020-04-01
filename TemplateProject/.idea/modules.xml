@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KotlinActivity1.iml" filepath="$PROJECT_DIR$/KotlinActivity1.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/repos/ITESM/dispmoviles/android/activity-1-kotlin-peterglezroa/TemplateProject/TemplateProject-KotlinActivity1.iml" filepath="$USER_HOME$/Documents/repos/ITESM/dispmoviles/android/activity-1-kotlin-peterglezroa/TemplateProject/TemplateProject-KotlinActivity1.iml" group="KotlinActivity1" />
+      <module fileurl="file://$USER_HOME$/Documents/repos/ITESM/dispmoviles/android/activity-1-kotlin-peterglezroa/TemplateProject/app/TemplateProject-app.iml" filepath="$USER_HOME$/Documents/repos/ITESM/dispmoviles/android/activity-1-kotlin-peterglezroa/TemplateProject/app/TemplateProject-app.iml" group="KotlinActivity1/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
